@@ -1,7 +1,7 @@
-# Project P1
+# Project P2
 
 ## Live URL
-<http://pnqzok.onjumpstarter.io>
+
 
 ## Description
 Project P2 for Dynamic Web Applications Course / Harvard Summer School 2014
