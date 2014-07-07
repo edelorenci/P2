@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang=“en”>
 <head>
- 	<title>Eliane Valenca Nascimento De Lorenci - P2 - xkcd password generator 
-        </title>
+ 	<title>Password generator </title>
 
 	<meta charset='utf-8'/>
         
