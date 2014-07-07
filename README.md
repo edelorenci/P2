@@ -11,7 +11,7 @@ Xkcd inspired password generator.
 ## Details for teaching team
 No login required.
 File corncob_lowercase.txt, downloaded from http://www.mieliestronk.com/wordlist.html, 
-contains list of english words.
+contains list of English words.
 
 ## Outside code
 No outside code used.
