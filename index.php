@@ -3,7 +3,7 @@
 <head>
  	<title>Password generator </title>
 
-	<meta charset='utf-8'/>
+	<meta charset='utf-8'>
         
         <?php require 'logic.php'; ?>
 
